@@ -32,6 +32,8 @@ a{
     margin-top: 7rem;
     display: flex;
     flex-wrap: wrap;
+    width: 25%;
+    min-width: 300px;
 }
 #sesion{
     font-family: "Moon Dance", cursive;
